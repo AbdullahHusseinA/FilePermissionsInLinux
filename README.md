@@ -7,7 +7,7 @@
 The research team within our organization must revise the file permissions for specific files and directories located in the `projects` directory. The current permissions do not align with the appropriate level of authorization. Verifying and adjusting these permissions is crucial for maintaining the security of our system. To accomplish this, I undertook the following actions:
 
 ## Check File and Directory Details
-The following code demonstrates how I used Linux commands to determine the existing permissions set for a specific directory in the file system.
+The following demonstrates how I used Linux commands to determine the existing permissions set for a specific directory in the file system.
 
 
 ![App Screenshot](https://i.imgur.com/wfYzAFF.jpg)
